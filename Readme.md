@@ -28,6 +28,8 @@ Feel free to contribute to this wiki! If you have any information to add or corr
 
 * [Virtiofs - Shared file system](https://virtio-win.github.io/Knowledge-Base/Virtiofs:-Shared-file-system)
 
+* [Viosock - Virtio socket](https://github.com/ybendito/virtio-win.github.io/blob/viosock/Knowledge-Base/viosock.md)
+
 * [All drivers - WPP tracing](https://github.com/virtio-win/kvm-guest-drivers-windows/blob/master/Documentation/Tracing.md)
 
 * [viostor - STORPORT miniport driver for Windows guests](http://www.linux-kvm.org/page/WindowsGuestDrivers/viostor)
